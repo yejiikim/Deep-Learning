@@ -53,7 +53,7 @@ Key contributions include:
   4. Normalize pixel values and standardize depth.
   5. Split the dataset into **train**, **validation**, and **test** sets.
 
-[Sample Code for Task 1](https://colab.research.google.com/drive/1ZOar1-MAWiCQtzJ4UT9Pl9vfdO-vWDwL?usp=sharing)
+
 
 ---
 
