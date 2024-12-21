@@ -15,9 +15,6 @@ This project explores the implementation of deep learning models for **Pose Clas
   - [Task 4: Hyperparameter Tuning](#task-4-hyperparameter-tuning)
 - [Results](#results)
 - [Requirements](#requirements)
-- [Future Work](#future-work)
-- [Acknowledgment](#acknowledgment)
-- [License](#license)
 
 ---
 
